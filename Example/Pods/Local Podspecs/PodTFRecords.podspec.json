@@ -1,6 +1,6 @@
 {
   "name": "PodTFRecords",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "TFRecords (.tfrecord) file format builder and reader for Swift",
   "description": "TFRecords (.tfrecord) file format builder and reader for Swift",
   "homepage": "https://github.com/Hai\\ Feng\\ Kao/PodTFRecords",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "git@github.com:haifengkao/PodTFRecords.git",
-    "tag": "0.3.0"
+    "tag": "0.4.0"
   },
   "platforms": {
     "osx": "10.14"
