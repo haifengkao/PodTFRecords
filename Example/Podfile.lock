@@ -1,7 +1,7 @@
 PODS:
   - CryptoSwift (1.3.1)
   - Nimble (8.1.1)
-  - PodTFRecords (0.1.0):
+  - PodTFRecords (0.2.0):
     - CryptoSwift (> 1.0.0)
     - SwiftProtobuf (> 1.6.0)
   - Quick (2.2.1)
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   CryptoSwift: f12f037f6d0fcd6d48c96db0071b653de64e6c4d
   Nimble: 5f8a2fb6fa343a7242dfdd9d42f7267419d464b2
-  PodTFRecords: d9c80bdf4ba1e58134dffa0ad3d1686720e399a1
+  PodTFRecords: 74766e5114079256569528440293710aeb2a7f57
   Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
   SwiftProtobuf: bfafffa9e26d1561c3bd0045e188c4fab5f527ae
 
