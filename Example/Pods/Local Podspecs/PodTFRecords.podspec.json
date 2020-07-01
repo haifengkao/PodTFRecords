@@ -1,0 +1,30 @@
+{
+  "name": "PodTFRecords",
+  "version": "0.1.0",
+  "summary": "A short description of PodTFRecords.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hai\\ Feng\\ Kao/PodTFRecords",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hai\\ Feng\\ Kao": "haifeng@cocoaspice.in"
+  },
+  "source": {
+    "git": "git@github.com:haifengkao/PodTFRecords.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.14"
+  },
+  "source_files": "PodTFRecords/Classes/**/*",
+  "dependencies": {
+    "SwiftProtobuf": [
+      "> 1.6.0"
+    ],
+    "CryptoSwift": [
+      "> 1.0.0"
+    ]
+  }
+}

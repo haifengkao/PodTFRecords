@@ -1,0 +1,6 @@
+framework module PodTFRecords {
+  umbrella header "PodTFRecords-umbrella.h"
+
+  export *
+  module * { export * }
+}
